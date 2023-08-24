@@ -1,0 +1,118 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "EditModeToggle",
+			"label": "Level Manager",
+			"position":
+			{
+				"x": -1247.5153703910105,
+				"y": 7168.0850335666073,
+				"z": 203.01379989780071
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true
+			},
+			"stringSettings":
+			{
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "E014CAE0426020BCED7D3D93DC197BD7",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 18,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+					"onEditModeEntered":
+					{
+						"eventId": "OnEditModeEntered",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onEditModeLeft":
+					{
+						"eventId": "OnEditModeLeft",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onMapFinishedLoading":
+					{
+						"eventId": "OnMapFinishedLoading",
+						"eventNames": [],
+						"eventValues": []
+					}
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

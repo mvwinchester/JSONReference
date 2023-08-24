@@ -1,0 +1,133 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "Input",
+			"label": "Input",
+			"position":
+			{
+				"x": -781.23566762754081,
+				"y": 7558.4526787778113,
+				"z": 153.09017551368299
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+				"axisMultiplier": 1
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"ConsumeInput": false,
+				"HideDuringPlayMode": true
+			},
+			"stringSettings":
+			{
+				"Key": ""
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "456D97AE414BEF0BFACA9ABA036A2771",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 25,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+					"onKeyPressed":
+					{
+						"eventId": "onKeyPressed",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onKeyReleased":
+					{
+						"eventId": "onKeyReleased",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onKeyRepeat":
+					{
+						"eventId": "onKeyRepeat",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onKeyDoubleClick":
+					{
+						"eventId": "onKeyDoubleClick",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onKeyAxis":
+					{
+						"eventId": "onKeyAxis",
+						"eventNames": [],
+						"eventValues": []
+					}
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

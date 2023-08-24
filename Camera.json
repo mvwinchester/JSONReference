@@ -1,0 +1,131 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "Camera",
+			"label": "Camera",
+			"position":
+			{
+				"x": 3929.2664084302382,
+				"y": 4437.4147011821969,
+				"z": 7.4752114017792337
+			},
+			"rotation":
+			{
+				"pitch": 3.9974584579467733,
+				"yaw": 130.6876678466796,
+				"roll": -1.992694615853056e-16
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+				"FieldOfView": 90,
+				"FocalDistance": 300,
+				"Aperture": 2.7999999523162842,
+				"WobbleSpeed": 0.10000000149011612,
+				"WobbleAmplitude": 10,
+				"WobbleFrequency": 1,
+				"WobblePersistence": 0.25,
+				"WobbleLacunarity": 2,
+				"possessTime": 0.5
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"CameraWobble": false,
+				"ShowFocalPlaneWhenEditing": true,
+				"AutoFocusLookAt": true,
+				"ShowCamera": true
+			},
+			"stringSettings":
+			{
+				"lookAt": ""
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "358E0FE2444FD406D8D17CB91B8558F0",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 4,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+					"onPossessCompleted":
+					{
+						"eventId": "OnPossessCompleted",
+						"eventNames": [],
+						"eventValues": []
+					}
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"possess":
+					{
+						"eventId": "Possess",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"unPossess":
+					{
+						"eventId": "UnPossess",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

@@ -1,0 +1,132 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "EventExecuter",
+			"label": "Event Executer",
+			"position":
+			{
+				"x": -472.44623319410766,
+				"y": 6513.4779591720517,
+				"z": -147.44645813049533
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true
+			},
+			"stringSettings":
+			{
+				"EventName": "",
+				"eventValue": ""
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "91FBE03B4B5438E7BAAF8085DF370259",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 27,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setEventName":
+					{
+						"eventId": "setEventName",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setEventValue":
+					{
+						"eventId": "setEventValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"executeEvent":
+					{
+						"eventId": "ExecuteEvent",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"executeEventWithName":
+					{
+						"eventId": "executeEventWithName",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"executeEventWithValue":
+					{
+						"eventId": "executeEventWithValue",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

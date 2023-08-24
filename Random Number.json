@@ -1,0 +1,127 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "RandomNumber",
+			"label": "Random Number",
+			"position":
+			{
+				"x": 1706.047429663869,
+				"y": 5697.3787551131572,
+				"z": -185.88426197032226
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+				"RangeMin": 0,
+				"RangeMax": 0
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true,
+				"OnlyWholeNumbers": false
+			},
+			"stringSettings":
+			{
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "0B638FE54039D71DF4E2C6BC5F1CA453",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 16,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+					"onRandomNumberGenerated":
+					{
+						"eventId": "OnRandomNumberGenerated",
+						"eventNames": [],
+						"eventValues": []
+					}
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"run":
+					{
+						"eventId": "Run",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setMinRangeValue":
+					{
+						"eventId": "SetMinRangeValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setMaxRangeValue":
+					{
+						"eventId": "SetMaxRangeValue",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "CameraFollower",
+			"label": "Camera Follower",
+			"position":
+			{
+				"x": 3622.0038824577387,
+				"y": 5855.4351975115333,
+				"z": 533.50011972223047
+			},
+			"rotation":
+			{
+				"pitch": -23.323062650859406,
+				"yaw": -128.86144560575491,
+				"roll": 1.7317866646373931e-15
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+				"FollowSmoothness": 5
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"ShowIcon": true,
+				"FollowSmooth": false,
+				"Following": true,
+				"FollowPosition": true,
+				"FollowRotation": true,
+				"FollowScale": true
+			},
+			"stringSettings":
+			{
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "CFC07295408C1AA3CCBC85BA8F010435",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 22,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"startFollowing":
+					{
+						"eventId": "startFollowing",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"stopFollowing":
+					{
+						"eventId": "stopFollowing",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"resetLocalTransform":
+					{
+						"eventId": "resetLocalTransform",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

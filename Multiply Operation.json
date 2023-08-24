@@ -1,0 +1,140 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "Operation",
+			"label": "Operation",
+			"position":
+			{
+				"x": 3690.0401394230557,
+				"y": 4751.2795478399185,
+				"z": 213.61661542461627
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true,
+				"OutputAsInteger": false
+			},
+			"stringSettings":
+			{
+				"valueA": "",
+				"valueB": "",
+				"Operation": "*"
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "B8034230401BEE0BBBFD89A824AAC988",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 14,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+					"onResultCalculated":
+					{
+						"eventId": "onResultCalculated",
+						"eventNames": [],
+						"eventValues": []
+					}
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setValueA":
+					{
+						"eventId": "setValueA",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setValueB":
+					{
+						"eventId": "setValueB",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setValueAAndRun":
+					{
+						"eventId": "setValueAAndRun",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setValueBAndRun":
+					{
+						"eventId": "setValueBAndRun",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"run":
+					{
+						"eventId": "Run",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

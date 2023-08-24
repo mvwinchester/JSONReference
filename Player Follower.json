@@ -1,0 +1,125 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "PlayerFollower",
+			"label": "Player Follower",
+			"position":
+			{
+				"x": 3568.7401700852884,
+				"y": 6490.6800379924916,
+				"z": -605.75577637920628
+			},
+			"rotation":
+			{
+				"pitch": -7.9513867036587919e-16,
+				"yaw": -8.4406667603270193,
+				"roll": 89.996203876896402
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 0.99999994039535522,
+				"z": 0.99999994039535522
+			},
+			"floatSettings":
+			{
+				"FollowSmoothness": 5
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"ShowIcon": true,
+				"FollowSmooth": false,
+				"Following": true,
+				"FollowPosition": true,
+				"FollowRotation": true,
+				"FollowScale": true
+			},
+			"stringSettings":
+			{
+				"AttachmentBone": "Root"
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "87A879384332A67E4527D09FD78897D4",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 21,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"startFollowing":
+					{
+						"eventId": "startFollowing",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"stopFollowing":
+					{
+						"eventId": "stopFollowing",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"resetLocalTransform":
+					{
+						"eventId": "resetLocalTransform",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

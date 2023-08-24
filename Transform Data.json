@@ -1,0 +1,316 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "TransformData",
+			"label": "Transform Data",
+			"position":
+			{
+				"x": 1895.9381208574791,
+				"y": 5572.6706341990221,
+				"z": -185.98599097348205
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true
+			},
+			"stringSettings":
+			{
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "317065A24E9CF83BE82DAD89AEC75C37",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 26,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+					"onGetXPositionWS":
+					{
+						"eventId": "onGetXPositionWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetYPositionWS":
+					{
+						"eventId": "onGetYPositionWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetZPositionWS":
+					{
+						"eventId": "onGetZPositionWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetXRotationWS":
+					{
+						"eventId": "onGetXRotationWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetYRotationWS":
+					{
+						"eventId": "onGetYRotationWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetZRotationWS":
+					{
+						"eventId": "onGetZRotationWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetXScaleWS":
+					{
+						"eventId": "onGetXScaleWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetYScaleWS":
+					{
+						"eventId": "onGetYScaleWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetZScaleWS":
+					{
+						"eventId": "onGetZScaleWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetXPositionLS":
+					{
+						"eventId": "onGetXPositionLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetYPositionLS":
+					{
+						"eventId": "onGetYPositionLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetZPositionLS":
+					{
+						"eventId": "onGetZPositionLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetXRotationLS":
+					{
+						"eventId": "onGetXRotationLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetYRotationLS":
+					{
+						"eventId": "onGetYRotationLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetZRotationLS":
+					{
+						"eventId": "onGetZRotationLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetXScaleLS":
+					{
+						"eventId": "onGetXScaleLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetYScaleLS":
+					{
+						"eventId": "onGetYScaleLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"onGetZScaleLS":
+					{
+						"eventId": "onGetZScaleLS",
+						"eventNames": [],
+						"eventValues": []
+					}
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setXPositionWS":
+					{
+						"eventId": "setXPositionWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setYPositionWS":
+					{
+						"eventId": "setYPositionWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setZPositionWS":
+					{
+						"eventId": "setZPositionWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setXRotationWS":
+					{
+						"eventId": "setXRotationWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setYRotationWS":
+					{
+						"eventId": "setYRotationWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setZRotationWS":
+					{
+						"eventId": "setZRotationWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setXScaleWS":
+					{
+						"eventId": "setXScaleWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setYScaleWS":
+					{
+						"eventId": "setYScaleWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setZScaleWS":
+					{
+						"eventId": "setZScaleWS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setXPositionLS":
+					{
+						"eventId": "setXPositionLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setYPositionLS":
+					{
+						"eventId": "setYPositionLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setZPositionLS":
+					{
+						"eventId": "setZPositionLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setXRotationLS":
+					{
+						"eventId": "setXRotationLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setYRotationLS":
+					{
+						"eventId": "setYRotationLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setZRotationLS":
+					{
+						"eventId": "setZRotationLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setXScaleLS":
+					{
+						"eventId": "setXScaleLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setYScaleLS":
+					{
+						"eventId": "setYScaleLS",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setZScaleLS":
+					{
+						"eventId": "setZScaleLS",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

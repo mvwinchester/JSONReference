@@ -1,0 +1,157 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "SineMovement",
+			"label": "Sine Movement",
+			"position":
+			{
+				"x": 922.16559193095929,
+				"y": 5623.8593452610512,
+				"z": -217.42376017333953
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+				"Amplitude": 1,
+				"Speed": 1,
+				"Offset": 0
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"ShowIcon": true
+			},
+			"stringSettings":
+			{
+			},
+			"vectorSettings":
+			{
+				"LocationMultiplier":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"RotationMultiplier":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"ScaleMultiplier":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"SpeedLocationMultiplier":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"SpeedRotationMultiplier":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"SpeedScaleMultiplier":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"OffsetLocation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"OffsetRotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"OffsetScale":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "09A9EAC84061E36AF58DCDBE89C7A1B9",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 17,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

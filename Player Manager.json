@@ -1,0 +1,148 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "PlayerManager",
+			"label": "Player Manager",
+			"position":
+			{
+				"x": 1624.5039519488528,
+				"y": 6663.5737405392392,
+				"z": -105.28617265199171
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true
+			},
+			"stringSettings":
+			{
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "8208D4364EAABCD276CA81AD4AC0CF26",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 20,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeOutfitIndex":
+					{
+						"eventId": "ChangeOutfitIndex",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeHandsClothingIndex":
+					{
+						"eventId": "ChangeHandsClothingIndex",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeHeadClothingIndex":
+					{
+						"eventId": "ChangeHeadClothingIndex",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeChestClothingIndex":
+					{
+						"eventId": "ChangeChestClothingIndex",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeLegsClothingIndex":
+					{
+						"eventId": "ChangeLegsClothingIndex",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeFeetClothingIndex":
+					{
+						"eventId": "ChangeFeetClothingIndex",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"toggleClothesVisibility":
+					{
+						"eventId": "ToggleClothesVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setClothesVisible":
+					{
+						"eventId": "SetClothesVisible",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

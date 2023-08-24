@@ -1,0 +1,190 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "EnvironmentManager",
+			"label": "Environment Manager",
+			"position":
+			{
+				"x": -33.334186989875434,
+				"y": 6336.917277213789,
+				"z": -201.94407583398885
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true
+			},
+			"stringSettings":
+			{
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "AEB698674742BDF6E6559980664959CE",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 19,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeTime":
+					{
+						"eventId": "changeTime",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeCloudCoverage":
+					{
+						"eventId": "changeCloudCoverage",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToClearSkies":
+					{
+						"eventId": "changeToClearSkies",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToPartlyCloudy":
+					{
+						"eventId": "changeToPartlyCloudy",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToCloudy":
+					{
+						"eventId": "changeToCloudy",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToOvercast":
+					{
+						"eventId": "changeToOvercast",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToFoggy":
+					{
+						"eventId": "changeToFoggy",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToLightRain":
+					{
+						"eventId": "changeToLightRain",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToRain":
+					{
+						"eventId": "changeToRain",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToThunderstorm":
+					{
+						"eventId": "changeToThunderstorm",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToLightSnow":
+					{
+						"eventId": "changeToLightSnow",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToSnow":
+					{
+						"eventId": "changeToSnow",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToBlizzard":
+					{
+						"eventId": "changeToBlizzard",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToLightSandstorm":
+					{
+						"eventId": "changeToLightSandstorm",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeToSandstorm":
+					{
+						"eventId": "changeToSandstorm",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}

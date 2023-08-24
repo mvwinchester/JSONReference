@@ -1,0 +1,138 @@
+{
+	"version": 12,
+	"level": "",
+	"initialSaveVersion": 12,
+	"lastUpgradeVersion": 12,
+	"maxCustomEventsPerTick": 1000,
+	"setScenes": [],
+	"poses": [],
+	"props": [
+		{
+			"iD": "StringCombiner",
+			"label": "Text Combiner",
+			"position":
+			{
+				"x": -737.80451139525303,
+				"y": 8753.5113319333377,
+				"z": 387.40912738995701
+			},
+			"rotation":
+			{
+				"pitch": 0,
+				"yaw": 0,
+				"roll": 0
+			},
+			"scale":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"floatSettings":
+			{
+			},
+			"intSettings":
+			{
+			},
+			"colorSettings":
+			{
+			},
+			"boolSettings":
+			{
+				"HideDuringPlayMode": true
+			},
+			"stringSettings":
+			{
+				"StringA": "",
+				"StringB": ""
+			},
+			"vectorSettings":
+			{
+			},
+			"bIsVisible": true,
+			"bIsInteractable": true,
+			"bIsCompletelyLocked": false,
+			"guid": "AA91BE20456D9CD694AEBCB71575482B",
+			"parent": "00000000000000000000000000000000",
+			"childIndex": 15,
+			"attachment": "None",
+			"bIsFoldedOut": false,
+			"customEvents":
+			{
+				"outEvents":
+				{
+					"onStringCombined":
+					{
+						"eventId": "onStringCombined",
+						"eventNames": [],
+						"eventValues": []
+					}
+				},
+				"inEvents":
+				{
+					"setVisibility":
+					{
+						"eventId": "SetVisibility",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanReceiveEvents":
+					{
+						"eventId": "setCanReceiveEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setCanDispatchEvents":
+					{
+						"eventId": "setCanDispatchEvents",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"setOptionValue":
+					{
+						"eventId": "setOptionValue",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeStringA":
+					{
+						"eventId": "changeStringA",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeStringB":
+					{
+						"eventId": "changeStringB",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeStringAAndCombine":
+					{
+						"eventId": "changeStringAAndCombine",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"changeStringBAndCombine":
+					{
+						"eventId": "changeStringBAndCombine",
+						"eventNames": [],
+						"eventValues": []
+					},
+					"combineStrings":
+					{
+						"eventId": "combineStrings",
+						"eventNames": [],
+						"eventValues": []
+					}
+				}
+			},
+			"bCanReceiveEvents": true,
+			"bCanDispatchEvents": true
+		}
+	],
+	"characters": [],
+	"customMaterials": [],
+	"levelOptions":
+	{
+	}
+}
